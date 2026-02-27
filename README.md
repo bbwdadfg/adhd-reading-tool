@@ -21,6 +21,24 @@
 
 **ADHD Reading** 正是为了解决这些痛点而诞生的。我们不仅仅是一个浏览器扩展，更是一个专为注意力缺陷用户设计的智能阅读伴侣，致力于让每一次阅读都变得轻松、高效、愉悦。
 
+## 📊 效果对比
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/before-hd.png" alt="使用前" width="400">
+        <br>
+        <strong>使用前：密集文字，难以聚焦</strong>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/after-hd.png" alt="使用后" width="400">
+        <br>
+        <strong>使用后：清晰层次，轻松阅读</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🧠 深度理解 ADHD 用户的阅读困境
 
@@ -36,6 +54,12 @@ ADHD 用户在阅读时面临的挑战远比普通人想象的复杂。他们的
 ## 🚀 革命性的解决方案
 
 ### 🔬 仿生阅读：模拟大脑的自然处理方式
+
+<div align="center">
+  <img src="assets/demos/bionic-reading.webp" alt="仿生阅读演示" width="600">
+  <br>
+  <em>仿生阅读技术：智能加粗单词前缀，引导眼球自然扫描</em>
+</div>
 
 我们的核心技术——**仿生阅读**，灵感来源于神经科学研究。通过智能分析每个单词的结构，我们精确地加粗单词的前半部分，为大脑提供"锚点"。这种方法模拟了熟练读者的眼球运动模式，让 ADHD 用户的大脑能够更自然地处理文字信息。
 
@@ -56,6 +80,12 @@ ADHD 用户在阅读时面临的挑战远比普通人想象的复杂。他们的
 这意味着用户不再需要在信息海洋中盲目搜寻，AI 会主动为他们标记出最值得关注的内容。
 
 ### 🎨 聚焦辅助：减少视觉干扰
+
+<div align="center">
+  <img src="assets/demos/focus-highlighting.webp" alt="聚焦高亮功能" width="600">
+  <br>
+  <em>智能聚焦：鼠标悬停自动高亮当前段落，减少视觉干扰</em>
+</div>
 
 我们深知视觉干扰是 ADHD 用户的大敌。因此，ADHD Reading 提供了多层次的聚焦辅助：
 
@@ -271,25 +301,6 @@ ADHD Reading 不仅仅是一个商业产品，更是我们对社会包容性的�
 - **📚 促进教育公平**：为有学习困难的学生提供更好的支持
 - **💼 提升工作效率**：帮助 ADHD 员工在职场中发挥更大潜力
 - **🤝 建设包容社会**：推动社会对神经多样性的理解和接纳
-
-## 📞 联系我们
-
-<div align="center">
-
-  **让阅读不再是负担，而是享受**
-
-  🌐 **官方网站**: [https://adhdreading.org](https://adhdreading.org)
-  📧 **联系邮箱**: support@adhdreading.org
-  💬 **用户社区**: 加入我们的用户交流群，分享使用心得和建议
-  📱 **社交媒体**: 关注我们获取最新动态和使用技巧
-
-  ---
-
-  **ADHD Reading，与你一起重新定义数字阅读的未来。**
-
-  ⭐ 如果这个项目对你有帮助，请给我们一个 Star！
-
-</div>
 
 ## 📄 许可证
 
