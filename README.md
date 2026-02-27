@@ -3,6 +3,318 @@
 
   # ADHD Reading
 
+  **Redefining Digital Reading Experience · Designed for Attention Deficit Users**
+
+  [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=flat-square&logo=google-chrome)](https://adhdreading.org)
+  [![Version](https://img.shields.io/badge/version-1.0.1-green?style=flat-square)](https://adhdreading.org)
+  [![Users](https://img.shields.io/badge/users-10K+-orange?style=flat-square)](https://adhdreading.org)
+  [![Rating](https://img.shields.io/badge/rating-4.8%2F5-yellow?style=flat-square)](https://adhdreading.org)
+
+  [🌐 Official Website](https://adhdreading.org) · [📥 Download Now](https://adhdreading.org) · [📖 Installation Guide](docs/installation.md) · [💬 Community](https://adhdreading.org)
+
+  ---
+
+  **[中文版本 Chinese Version](#中文版本)**
+</div>
+
+---
+
+## 🌟 Product Vision
+
+In this information-rich era, we process vast amounts of text daily—from work emails to academic papers, from news articles to technical documentation. However, for users with Attention Deficit Hyperactivity Disorder (ADHD), traditional web reading experiences are often challenging: dense text is hard to focus on, long content leads to mind-wandering, and important information gets lost in the information ocean.
+
+**ADHD Reading** was born to solve these pain points. We are not just a browser extension, but an intelligent reading companion specifically designed for attention deficit users, dedicated to making every reading experience easy, efficient, and enjoyable.
+
+## 📊 Before & After Comparison
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/before-hd.png" alt="Before" width="400">
+        <br>
+        <strong>Before: Dense text, hard to focus</strong>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/after-hd.png" alt="After" width="400">
+        <br>
+        <strong>After: Clear hierarchy, easy reading</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🧠 Understanding ADHD Users' Reading Challenges
+
+### Root Causes of Attention Dispersion
+ADHD users face challenges in reading that are far more complex than most people imagine. Their brains often struggle to effectively filter irrelevant information when processing text, leading to frequent attention jumps. Dense text layouts and content presentation lacking visual hierarchy in traditional web design exacerbate these difficulties.
+
+### Cognitive Overload
+When facing large blocks of text, ADHD users need to consume more cognitive resources to maintain focus. Random eye movements between words, repeated searching for important information, and constant self-reminders to "stay focused" quickly exhaust their limited attention resources.
+
+### Low Reading Efficiency
+Due to unstable attention, ADHD users often need to reread the same content multiple times to understand it, or frequently look back to confirm previous information during reading. This not only affects reading speed but also creates frustration, further reducing learning and work efficiency.
+
+## 🚀 Revolutionary Solutions
+
+### 🔬 Bionic Reading: Simulating Natural Brain Processing
+
+<div align="center">
+  <img src="assets/demos/bionic-reading.webp" alt="Bionic Reading Demo" width="600">
+  <br>
+  <em>Bionic Reading Technology: Intelligently bold word prefixes to guide natural eye scanning</em>
+</div>
+
+Our core technology—**Bionic Reading**—is inspired by neuroscience research. By intelligently analyzing the structure of each word, we precisely bold the first half of words, providing "anchors" for the brain. This method simulates the eye movement patterns of skilled readers, allowing ADHD users' brains to process text information more naturally.
+
+**Technical Details**:
+- 🎯 **Intelligent Segmentation Algorithm**: Based on linguistic principles, not simple character splitting
+- 🌍 **Multi-language Optimization**: Considers syllable structure for English, analyzes semantic weight for Chinese
+- ⚡ **Real-time Processing**: Millisecond response without affecting normal browsing experience
+- 🎛️ **Precise Control**: Adjustable emphasis density (20%-60%) and emphasis strength (100%-160%)
+
+### 🤖 AI-Driven Semantic Understanding
+
+Traditional text processing tools can only perform surface formatting adjustments, while ADHD Reading integrates advanced natural language processing technology. Our AI engine can:
+
+- **🔍 Intelligently Identify Key Information**: Automatically identify core concepts, important data, and key conclusions in paragraphs
+- **📊 Semantic Hierarchy Analysis**: Understand article logical structure, distinguish main arguments from supporting details
+- **🔗 Contextual Association**: Establish semantic connections between paragraphs, helping users build complete knowledge frameworks
+
+This means users no longer need to search blindly in the information ocean—AI will proactively mark the most noteworthy content for them.
+
+### 🎨 Focus Assistance: Reducing Visual Distractions
+
+<div align="center">
+  <img src="assets/demos/focus-highlighting.webp" alt="Focus Highlighting Feature" width="600">
+  <br>
+  <em>Smart Focus: Automatically highlight current paragraph on hover, reducing visual distractions</em>
+</div>
+
+We understand that visual distractions are the enemy of ADHD users. Therefore, ADHD Reading provides multi-level focus assistance:
+
+**Visual Optimization**:
+- 📏 **Dynamic Adjustment**: Text size (90%-140%) and spacing adaptive adjustment
+- 🎨 **Smart Highlighting**: Gradient effects guide natural visual flow
+- 🌈 **Personalized Color Schemes**: Adapt to different users' visual preferences and sensitivities
+
+**Interactive Feedback**:
+- 📍 **Real-time Positioning**: Clearly display current reading position
+- ⏸️ **Smart Pause**: Adapt to natural attention fluctuations
+- 💪 **Encouragement Mechanism**: Personalized reminders maintain long-term reading motivation
+
+## 🎯 Precise Personalization
+
+### Intelligent Preset System
+
+We understand that each ADHD user's symptom severity and manifestations are different. Therefore, we developed an intelligent preset system based on extensive user data:
+
+| Preset Mode | Target Users | Key Features |
+|-------------|--------------|--------------|
+| **🌱 Light Mode** | Users with occasional attention dispersion | Gentle visual emphasis, maintaining original reading habits |
+| **⚡ Medium Mode** | Users with typical ADHD symptoms | Obvious visual guidance and key marking |
+| **🔥 Heavy Mode** | Users with severe attention deficit | Maximized visual contrast and information highlighting |
+| **🎛️ Custom Mode** | Users seeking personalization | Over 20 adjustable parameters with real-time preview |
+
+### Learning Algorithm
+
+ADHD Reading is not a static tool, but an intelligent assistant that learns and evolves. By analyzing users' reading behavior patterns—such as which types of content they spend more time on and which settings improve reading efficiency—our algorithm continuously optimizes personalized recommendations.
+
+## 🌍 Barrier-free Global Design
+
+### Deep Multi-language Support
+
+Our multi-language support goes beyond interface translation—we've deeply optimized for the cognitive characteristics of different languages:
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Language Family</th>
+      <th>Supported Languages</th>
+      <th>Optimization Features</th>
+    </tr>
+    <tr>
+      <td><strong>Latin Languages</strong></td>
+      <td>English, Spanish, French, German, Portuguese</td>
+      <td>Intelligent segmentation based on syllables and roots</td>
+    </tr>
+    <tr>
+      <td><strong>CJK Languages</strong></td>
+      <td>Simplified Chinese, Traditional Chinese, Japanese, Korean</td>
+      <td>Special processing algorithms for ideographic characters</td>
+    </tr>
+    <tr>
+      <td><strong>Arabic Languages</strong></td>
+      <td>Arabic</td>
+      <td>Right-to-left reading direction adaptation</td>
+    </tr>
+  </table>
+</div>
+
+### Cultural Adaptability Design
+
+Users from different cultural backgrounds have different ways of processing information. Our design team has deeply studied reading habits of users from various regions to ensure the product provides the best experience globally.
+
+## 🔒 Privacy Protection & Data Security
+
+### Local-first Processing Architecture
+
+In this era where data privacy is increasingly important, ADHD Reading adopts a "local-first" design philosophy:
+
+- **🔐 Core Algorithms Run Locally**: All text analysis and processing are completed on user devices
+- **📊 Minimal Data Transmission**: Only uploads anonymized usage statistics with explicit user authorization
+- **📋 Transparent Data Policy**: Clearly explains the purpose and processing method of each data item
+
+### Enterprise-level Security Standards
+
+- 🔒 End-to-end encrypted user settings synchronization
+- 🛡️ Regular security audits and vulnerability fixes
+- ⚖️ Compliance with international privacy regulations like GDPR and CCPA
+
+## 🎨 The Art of User Experience
+
+### Non-intrusive Design Philosophy
+
+We believe the best assistive tools should be invisible. ADHD Reading's interface design follows "non-intrusive" principles:
+
+- **🎭 Native Integration**: Naturally blends with original webpage design styles without creating abruptness
+- **📈 Progressive Enhancement**: Gradually adds assistive functions without breaking original functionality
+- **🔄 One-click Toggle**: Can disable all effects anytime to return to original state
+
+### Emotional Interaction Design
+
+We understand the psychological pressure ADHD users may face when using assistive tools. Therefore, we've incorporated many emotional elements into interaction design:
+
+- **🎉 Encouraging Feedback**: Positive feedback when completing reading tasks
+- **📊 Progress Visualization**: Let users see their progress and growth
+- **🎨 Personalized Customization**: Make users feel the tool is "their own"
+
+## 📊 Scientific Validation & Continuous Improvement
+
+### Research-based Design Decisions
+
+Every function of ADHD Reading has solid scientific foundation:
+
+- **🧠 Cognitive Psychology Research**: Based on latest research findings on attention and working memory
+- **🔬 Neuroscience Discoveries**: References neural activity patterns during brain reading processes
+- **👥 User Behavior Analysis**: Validates design hypotheses through extensive user testing
+
+### Continuous Effect Evaluation
+
+We collaborate with multiple universities and research institutions to continuously evaluate the product's actual effects:
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Evaluation Metric</th>
+      <th>Improvement</th>
+      <th>User Feedback</th>
+    </tr>
+    <tr>
+      <td><strong>Reading Efficiency</strong></td>
+      <td>Average 23% increase</td>
+      <td>"Reading speed significantly improved, no need to reread"</td>
+    </tr>
+    <tr>
+      <td><strong>Comprehension Accuracy</strong></td>
+      <td>31% reduction in errors</td>
+      <td>"Can more accurately grasp article key points"</td>
+    </tr>
+    <tr>
+      <td><strong>User Satisfaction</strong></td>
+      <td>92% significant improvement</td>
+      <td>"This is the most effective reading aid I've used"</td>
+    </tr>
+  </table>
+</div>
+
+## 🚀 Quick Start
+
+### Installation Steps
+
+1. **Visit Official Website**: Go to [adhdreading.org](https://adhdreading.org)
+2. **Download Extension**: Click "Download Now" button
+3. **Install to Browser**: Follow prompts to complete installation
+4. **Start Using**: Visit any webpage, click extension icon to begin
+
+### Recommended Settings
+
+**First-time Use Suggestions**:
+- 🎯 Choose "Medium Mode" as starting point
+- 📏 Set overall scaling to 110%
+- ⚡ Set emphasis density to 40%
+- 🎨 Adjust color theme according to personal preference
+
+**Advanced Optimization**:
+- 📊 Observe usage effects for one week
+- 🔧 Fine-tune parameters based on reading habits
+- 💡 Try different emphasis modes
+- 📈 Monitor changes in reading efficiency
+
+## 💝 User Feedback
+
+> *"As an ADHD patient, I finally found a tool that helps me focus on reading. The bionic reading feature is amazing—now I can easily read long articles!"*
+> **— Student Zhang**
+
+> *"This extension completely changed my work efficiency. I used to lose focus when reading technical documentation, but now I can quickly grasp key points and my work efficiency has improved significantly."*
+> **— Engineer Li**
+
+> *"The interface design is very thoughtful, doesn't interfere with the original reading experience, but you can clearly feel that reading has become easier. Highly recommend to all friends with reading difficulties!"*
+> **— Teacher Wang**
+
+## 🌟 Use Cases
+
+### 📚 Academic Research
+- Paper reading and literature review
+- Quick screening of academic materials
+- Assistance in understanding complex concepts
+
+### 💼 Workplace
+- Efficient processing of emails and reports
+- Quick understanding of technical documentation
+- Preparation for meeting materials
+
+### 📰 Daily Reading
+- News and information browsing
+- Social media content filtering
+- In-depth reading of blog articles
+
+### 🎓 Online Learning
+- Following online course subtitles
+- Understanding teaching materials
+- Highlighting key knowledge points
+
+## 🚀 Future Development Plans
+
+### Technology Innovation Directions
+- **👁️ Eye Tracking Integration**: Combine eye movement data for more precise personalization
+- **🧠 Brain-Computer Interface Exploration**: Research direct neural feedback mechanisms
+- **🥽 AR/VR Adaptation**: Prepare for next-generation reading devices
+
+### Ecosystem Building
+- **🔧 Developer API**: Enable more applications to integrate our technology
+- **🎓 Educational Partnerships**: Establish cooperation with schools and training institutions
+- **🏥 Medical Integration**: Complement ADHD treatment plans
+
+## 💝 Social Value & Mission
+
+ADHD Reading is not just a commercial product, but our commitment to social inclusivity. We believe everyone should have equal rights to access information and knowledge, regardless of their cognitive characteristics.
+
+Through the power of technology, we hope to:
+- **🌉 Bridge the Digital Divide**: Ensure cognitive differences don't become barriers to information access
+- **📚 Promote Educational Equity**: Provide better support for students with learning difficulties
+- **💼 Enhance Work Efficiency**: Help ADHD employees realize greater potential in the workplace
+- **🤝 Build an Inclusive Society**: Promote social understanding and acceptance of neurodiversity
+
+---
+
+## 中文版本
+
+<div align="center">
+  <img src="assets/logos/logo.webp" alt="ADHD Reading Logo" width="120" height="120">
+
+  # ADHD Reading
+
   **重新定义数字阅读体验 · 专为注意力缺陷用户设计**
 
   [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=flat-square&logo=google-chrome)](https://adhdreading.org)
@@ -13,32 +325,11 @@
   [🌐 官方网站](https://adhdreading.org) · [📥 立即下载](https://adhdreading.org) · [📖 使用指南](docs/installation.md) · [💬 用户社区](https://adhdreading.org)
 </div>
 
----
-
 ## 🌟 产品愿景
 
 在这个信息爆炸的时代，每天我们都要处理大量的文字信息——从工作邮件到学术论文，从新闻资讯到技术文档。然而，对于患有注意力缺陷多动障碍（ADHD）的用户来说，传统的网页阅读体验往往充满挑战：文字密密麻麻难以聚焦，长篇内容容易走神，重要信息淹没在信息海洋中。
 
 **ADHD Reading** 正是为了解决这些痛点而诞生的。我们不仅仅是一个浏览器扩展，更是一个专为注意力缺陷用户设计的智能阅读伴侣，致力于让每一次阅读都变得轻松、高效、愉悦。
-
-## 📊 效果对比
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="assets/screenshots/before-hd.png" alt="使用前" width="400">
-        <br>
-        <strong>使用前：密集文字，难以聚焦</strong>
-      </td>
-      <td align="center">
-        <img src="assets/screenshots/after-hd.png" alt="使用后" width="400">
-        <br>
-        <strong>使用后：清晰层次，轻松阅读</strong>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## 🧠 深度理解 ADHD 用户的阅读困境
 
@@ -54,12 +345,6 @@ ADHD 用户在阅读时面临的挑战远比普通人想象的复杂。他们的
 ## 🚀 革命性的解决方案
 
 ### 🔬 仿生阅读：模拟大脑的自然处理方式
-
-<div align="center">
-  <img src="assets/demos/bionic-reading.webp" alt="仿生阅读演示" width="600">
-  <br>
-  <em>仿生阅读技术：智能加粗单词前缀，引导眼球自然扫描</em>
-</div>
 
 我们的核心技术——**仿生阅读**，灵感来源于神经科学研究。通过智能分析每个单词的结构，我们精确地加粗单词的前半部分，为大脑提供"锚点"。这种方法模拟了熟练读者的眼球运动模式，让 ADHD 用户的大脑能够更自然地处理文字信息。
 
@@ -81,12 +366,6 @@ ADHD 用户在阅读时面临的挑战远比普通人想象的复杂。他们的
 
 ### 🎨 聚焦辅助：减少视觉干扰
 
-<div align="center">
-  <img src="assets/demos/focus-highlighting.webp" alt="聚焦高亮功能" width="600">
-  <br>
-  <em>智能聚焦：鼠标悬停自动高亮当前段落，减少视觉干扰</em>
-</div>
-
 我们深知视觉干扰是 ADHD 用户的大敌。因此，ADHD Reading 提供了多层次的聚焦辅助：
 
 **视觉优化**：
@@ -98,199 +377,6 @@ ADHD 用户在阅读时面临的挑战远比普通人想象的复杂。他们的
 - 📍 **实时定位**：清晰显示当前阅读位置
 - ⏸️ **智能暂停**：适应注意力的自然波动
 - 💪 **鼓励机制**：个性化提醒维持长期阅读动机
-
-## 🎯 精准的个性化定制
-
-### 智能预设系统
-
-我们理解每个 ADHD 用户的症状严重程度和表现形式都不相同。因此，我们开发了基于大量用户数据的智能预设系统：
-
-| 预设模式 | 适用人群 | 主要特点 |
-|---------|---------|---------|
-| **🌱 轻度模式** | 注意力偶尔分散的用户 | 温和的视觉强调，保持原有阅读习惯 |
-| **⚡ 中度模式** | 典型的 ADHD 症状用户 | 明显的视觉引导和重点标记 |
-| **🔥 重度模式** | 严重注意力缺陷用户 | 最大化的视觉对比和信息突出 |
-| **🎛️ 自定义模式** | 追求个性化的用户 | 超过 20 个可调节参数，实时预览 |
-
-### 学习型算法
-
-ADHD Reading 不是一个静态的工具，而是一个会学习和进化的智能助手。通过分析用户的阅读行为模式——比如在哪些类型的内容上停留更久，哪些设置下阅读效率更高——我们的算法会持续优化个性化推荐。
-
-## 🌍 无障碍的全球化设计
-
-### 多语言深度支持
-
-我们的多语言支持不仅仅是界面翻译，而是针对不同语言的认知特点进行了深度优化：
-
-<div align="center">
-  <table>
-    <tr>
-      <th>语言系列</th>
-      <th>支持语言</th>
-      <th>优化特点</th>
-    </tr>
-    <tr>
-      <td><strong>拉丁语系</strong></td>
-      <td>英语、西班牙语、法语、德语、葡萄牙语</td>
-      <td>基于音节和词根的智能分割</td>
-    </tr>
-    <tr>
-      <td><strong>中日韩语系</strong></td>
-      <td>简体中文、繁体中文、日语、韩语</td>
-      <td>针对表意文字的特殊处理算法</td>
-    </tr>
-    <tr>
-      <td><strong>阿拉伯语系</strong></td>
-      <td>阿拉伯语</td>
-      <td>从右到左的阅读方向适配</td>
-    </tr>
-  </table>
-</div>
-
-### 文化适应性设计
-
-不同文化背景的用户对信息的处理方式存在差异。我们的设计团队深入研究了各地区用户的阅读习惯，确保产品在全球范围内都能提供最佳体验。
-
-## 🔒 隐私保护与数据安全
-
-### 本地优先的处理架构
-
-在这个数据隐私日益重要的时代，ADHD Reading 采用了"本地优先"的设计理念：
-
-- **🔐 核心算法本地运行**：所有的文本分析和处理都在用户设备上完成
-- **📊 最小化数据传输**：只有在用户明确授权的情况下才会上传匿名化的使用统计
-- **📋 透明的数据政策**：清晰说明每一项数据的用途和处理方式
-
-### 企业级安全标准
-
-- 🔒 端到端加密的用户设置同步
-- 🛡️ 定期的安全审计和漏洞修复
-- ⚖️ 符合 GDPR、CCPA 等国际隐私法规
-
-## 🎨 用户体验的艺术
-
-### 无侵入式设计哲学
-
-我们坚信，最好的辅助工具应该是无形的。ADHD Reading 的界面设计遵循"无侵入"原则：
-
-- **🎭 原生融合**：与网页原有设计风格自然融合，不会产生突兀感
-- **📈 渐进增强**：在不破坏原有功能的基础上，逐步增加辅助功能
-- **🔄 一键切换**：随时可以关闭所有效果，回到原始状态
-
-### 情感化交互设计
-
-我们理解 ADHD 用户在使用辅助工具时可能面临的心理压力。因此，我们在交互设计中融入了大量的情感化元素：
-
-- **🎉 鼓励性反馈**：完成阅读任务时的积极反馈
-- **📊 进度可视化**：让用户看到自己的进步和成长
-- **🎨 个性化定制**：让用户感受到工具是"属于自己的"
-
-## 📊 科学验证与持续改进
-
-### 基于研究的设计决策
-
-ADHD Reading 的每一个功能都有坚实的科学依据：
-
-- **🧠 认知心理学研究**：基于注意力和工作记忆的最新研究成果
-- **🔬 神经科学发现**：参考大脑在阅读过程中的神经活动模式
-- **👥 用户行为分析**：通过大量的用户测试验证设计假设
-
-### 持续的效果评估
-
-我们与多所大学和研究机构合作，持续评估产品的实际效果：
-
-<div align="center">
-  <table>
-    <tr>
-      <th>评估指标</th>
-      <th>改善程度</th>
-      <th>用户反馈</th>
-    </tr>
-    <tr>
-      <td><strong>阅读效率提升</strong></td>
-      <td>平均提高 23%</td>
-      <td>"阅读速度明显加快，不再需要反复阅读"</td>
-    </tr>
-    <tr>
-      <td><strong>理解准确率</strong></td>
-      <td>减少 31% 的理解错误</td>
-      <td>"能够更准确地抓住文章重点"</td>
-    </tr>
-    <tr>
-      <td><strong>用户满意度</strong></td>
-      <td>92% 显著改善体验</td>
-      <td>"这是我用过最有效的阅读辅助工具"</td>
-    </tr>
-  </table>
-</div>
-
-## 🚀 快速开始
-
-### 安装步骤
-
-1. **访问官网**：前往 [adhdreading.org](https://adhdreading.org)
-2. **下载扩展**：点击"立即下载"按钮
-3. **安装到浏览器**：按照提示完成安装
-4. **开始使用**：访问任意网页，点击扩展图标即可开始
-
-### 推荐设置
-
-**首次使用建议**：
-- 🎯 选择"中度模式"作为起点
-- 📏 将整体放大设置为 110%
-- ⚡ 强调密度设置为 40%
-- 🎨 根据个人喜好调整颜色主题
-
-**进阶优化**：
-- 📊 观察一周的使用效果
-- 🔧 根据阅读习惯微调参数
-- 💡 尝试不同的强调模式
-- 📈 关注阅读效率的变化
-
-## 💝 用户反馈
-
-> *"作为一个 ADHD 患者，我终于找到了能让我专心阅读的工具。仿生阅读功能简直是神器，现在我可以轻松阅读长篇文章了！"*
-> **— 张同学，大学生**
-
-> *"这个扩展彻底改变了我的工作效率。以前阅读技术文档总是走神，现在能够快速抓住重点，工作效率提升了很多。"*
-> **— 李工程师，软件开发**
-
-> *"界面设计很贴心，不会打扰原有的阅读体验，但又能明显感受到阅读变得更轻松了。强烈推荐给所有有阅读困难的朋友！"*
-> **— 王老师，教育工作者**
-
-## 🌟 使用场景
-
-### 📚 学术研究
-- 论文阅读和文献综述
-- 学术资料的快速筛选
-- 复杂概念的理解辅助
-
-### 💼 职场办公
-- 邮件和报告的高效处理
-- 技术文档的快速理解
-- 会议资料的预习准备
-
-### 📰 日常阅读
-- 新闻资讯的浏览
-- 社交媒体内容的筛选
-- 博客文章的深度阅读
-
-### 🎓 在线学习
-- 网课字幕的跟随
-- 教学材料的理解
-- 知识点的重点标记
-
-## 🚀 未来发展规划
-
-### 技术创新方向
-- **👁️ 眼动追踪集成**：结合眼动数据提供更精准的个性化
-- **🧠 脑机接口探索**：研究直接的神经反馈机制
-- **🥽 AR/VR 适配**：为下一代阅读设备做好准备
-
-### 生态系统建设
-- **🔧 开发者 API**：让更多应用能够集成我们的技术
-- **🎓 教育合作**：与学校和培训机构建立合作关系
-- **🏥 医疗整合**：与 ADHD 治疗方案形成互补
 
 ## 💝 社会价值与使命
 
